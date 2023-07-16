@@ -1,4 +1,3 @@
-Certainly! Here's an improved and clearer version of the README.md content for your GitHub repository:
 
 ```
 # Face Mask Detection
